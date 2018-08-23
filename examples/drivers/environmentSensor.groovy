@@ -26,7 +26,7 @@ metadata {
 	capability "Temperature Measurement"
 	capability "RelativeHumidityMeasurement"
 	capability "Illuminance Measurement"
-	capability "PressureMeasurement"
+	capability "Pressure Measurement"
 	capability "Sensor"
 	capability "Switch"
 
